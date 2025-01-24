@@ -1,0 +1,6 @@
+RoomNum,Capacity,Category (Lab/Computer/..),HasProjector,HasWacom
+R001,40,Lecture,False,True
+R002,30,Lecture,True,False
+R003,70,Computer,False,False
+R004,30,Lab,False,True
+R005,30,Computer,True,True
