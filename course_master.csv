@@ -1,0 +1,233 @@
+Code,Title
+AI 551,Foundations of AI
+AI 703,Geographic Information Systems
+AI 704,Multi-Agent Systems
+AI 705 - Lecture,Recommendation Systems - Lecture
+AI 705,Recommendation Systems
+AI 724,Statistical Techniques for Spatio-Temporal Data Analysis
+AI 825,Visual Recognition
+AI 828,Bayesian Methods and Probabilistic Graphical Models
+AI 829,Natural Language Processing
+AI 831,Few-shot Learning
+AI 832,Reinforcement Learning
+CS 212,Design and Analysis of Algorithms
+CS 301,Database Systems
+CS 301P,Database Lab
+CS 605,Data Modeling
+CS 704 - Lecture,Topics in Computability and Learning - Lecture
+CS 704,Topics in Computability and Learning
+CS 710,Algorithmic Thinking
+CS 718,Foundations of Distributed Consensus and Blockchains
+CS 753,Software Design Practices
+CS 754,Programming Languages
+CS 816,Software Production Engineering
+CS 825,Graph Theory
+CS 836,Simulation and Modeling of Data using High Performance Computing
+CS 837,Healthcare Application Development
+CS 839,NoSQL Systems
+CS / CY 616,Foundations of Cryptography
+CS 882,Network-Based Computing for HPC/DL
+CY 824,Cyber Security Fundamentals with Tools & Techniques for Defence
+DT 108,Human Computer Interaction
+DT 203 / ITS 603,Information and Communication Technology Policy and Regulation
+DT 204,Social Complexity and Systems Thinking
+DT 205,Technology in Development
+DT 212,Techno-Economics of Networks
+DT 290,Project Elective
+DT 314,An Introduction to Accessibility in the Global South
+EC 212,Analog Circuits
+EC 212P,Analog Circuits Lab
+EC 303,Principles of Communication Systems
+EC 303P,Principles of Communication Systems Lab
+EC 304,Signal Processing
+EC 309,Mobile Computing
+EC 978,Internship
+EC 979,Thesis
+EG 101,Computer Networks
+EG 102,Data Structures and Algorithms
+EG 102P,Data Structures Lab
+Eg 211,Computer Architecture
+EG 301,Operating Systems
+EG 301P,Operating Systems Lab
+GEN 103,Physical Education 2
+GEN 201,Technical Communication
+GN 611,Research & Publication Ethics
+HSS 108,The City
+HSS 109,A History of Ideas
+NC 605,Mobile Computing
+NC 827,Wireless Communication
+CSE 514,Concrete Mathematics
+NC 863 - Lecture,Fundamentals of Radar Sensing - Lecture
+SM 102,Mathematics - 2
+SM 401,Electromagnetics & Radiation Systems
+SM 402,Basic Computational Topology
+SM 403,Elements of Statistical Physics
+SM 404,A computational introduction to Number Theory
+SM 602,Introduction to Nonlinear Dynamical Systems
+VL 601,Testing & Design For Testability
+VL 603,Electronic Systems Packaging
+VL 701,Functional Verification of SOCs
+VL 731,VLSI Architecture Design
+VL 804,Analog Power Integrated Circuits
+CS 762,Advanced Data Visualization
+GEN 819,Interdisciplinarity in Robotics
+NC 854,Digital Image Processing
+DT 211,Dynamics of the InformationTechnology Industry
+AIM 511(IMT),Machine Learning (IM.Tech.)
+AIM 512,Mathematics for Machine Learning (M Tech)
+DAS 703,Geographic Information Systems
+AIM 608,Networks and Semantics
+AIM 842,Quantum computation and machine learning
+AIM 841,Medical Image Analysis with AI
+AIM 843,Spatio-temporal Data Analytics I
+DAS 732,Data Visualization
+CSE 513,Software Systems
+CSE 511,Algorithms
+CSE 602,Advanced Algorithms
+AIM 511(MT),Machine Learning (M.Tech.)
+AIM 835,Self-Supervised Learning
+AIM 840,3D Vision
+CSE 724,Topics in Artificial Intelligence
+CSE 731,Software Testing
+CSE 752,Software Architecture and Design Practices
+CSE 816,Software Production Engineering
+CSE 853,Algorithms Beyond Certainty
+CSE 857,Secure Computation
+CSE 873,Cryptographic Engineering
+NWC 882,Special Topics - Network-Based Computing for HPC
+NWC 866,Advanced Cyber Security
+DHS 307,The Web and the Mind
+DHS 385,"Cyberspace, Globalization and Location"
+DHS 312,Advanced Topics in Human Computer Interaction
+DHS 313,Technology Ethics and Artificial Intelligence
+GNL 801,Optimization
+GNL 711,Fundamentals of Theoretical Neuroscience
+GNL 811,Introduction to Astronomy & Astrophysics
+GNL 598,Abstract Algebra
+VLS 502,Analog CMOS VLSI Design
+VLS 505,System design with FPGA
+VLS 503,Digital CMOS VLSI Design
+VLS 508,Physical Design Of ASICs
+COM 598,Detection and Estimation Theory
+COM 827,Internet of Things
+VLS 864,Embedded Systems Design
+EGC 102,Digital Design
+GNL 102,Physical Education 1
+EGC 103,Introdution to Computer Architecture and Operating Systems
+EGC 111,Programming 1A (C Programming)
+EGC 112,Programming 1B (Python Programming)
+CSE 201,Discrete Mathematics
+AMS 203,Physics
+AMS 203P,Physics-Lab
+EGC 113,Signals and Systems
+AMS 211,Mathematics-3
+EGC 223 ,Computer Architecture - Memory
+EGC 211/EGC 212,Programming 2 (C++ / Java Programming)
+ECE 211,Electronic Circuits and Network Analysis
+ECE 211P,Electronics Lab
+CSE 302,Introduction to Automata Theory & Computability
+CSE 303,Software Engineering
+ECE 305,Control Theory
+ECE 306,Digital Communication
+ECE 306P,Digital Communication Lab
+AMS 103,Calculus
+HSS 111,Economics-1
+AMS 101,Probability & Statistics
+AMS 102,Probability & Random Process
+GNL 101,English
+CSE 870,Program Analysis for Software Engineering
+AMS 101T,Probability & Statistics Tutorial
+CSE 201T,Discrete Mathematics Tutorial
+AIM 839,ML Production Engineering
+EGC 102T,Digital Design
+CSE 303P,Software Engineering Lab
+DHS 301,Data Analysis and Visualization
+DHS 302,Information Economics and Product Finance
+DHS 303,Software Product Management
+DHS 304,User Research
+PE/RE,PE/RE
+Samvaad Talk,Samvaad Talk
+VALP,Light Music Vocals
+VALP-2024-101	,Basic Communication in Indian Sign Language
+VALP-2024-102	,Kannada	
+VALP-2024-106	,Finance for Engineers	
+GNL 102,Yoga Session (iMtech & B.Tech)
+Turiya Club,Meditation Session
+CP-VALP,Competitive Programming VALP 
+RE ,RE in Computational number theory
+EGC 112,Programming 1B (Python Programming) - BT1-IMT1-DSAI-ECE
+PGP-DPDM,Accessibility sessions for PGP-DPDM students with disability
+AIM 101,Statistics for DS
+AIM 102,Statistical Machine Learning
+DAS 101,Database Systems
+DAS 101P,Database Lab
+AIM 832,Reinforcement Learning
+AIM 844,SpatioTemporal Data Analytics - II
+AIM 825,Visual Recognition
+DAS 605,Data Modelling
+AIM 821,Spatial Computing
+AIM 831,Few-shot Learning
+DAS 871,Basic Computational Topology
+AIM 704,Multi-agent Systems
+AIM 720,Topics in AGI
+DAS 839ï¿½,NoSQL Systems
+AIM 551,Foundations of AI
+AIM 829,Natural Language Processing
+EGC 122,Datastructures & Algorithms Theory
+EGC 122P,Datastructures & Algorithms Lab
+EGC 121,Computer Architecture
+AMS 104,Linear Algebra
+EGC 123,Computer Networks
+GNL 103,Physical Education
+DHS 10*,Technical Communication
+ECE 212,Analog Circuits
+ECE 212P,Analog Circuits Lab
+ECE 303,Principles of Communication Systems
+ECE 303P,Principles of Communication Systems Lab
+ECE 304,Signal Processing
+EGC 301,Operating Systems
+EGC 301P,Operating Systems Lab
+DHS 110,Social Pathways to IT
+AMS 404,Science& Maths Pool-1 (A computational introduction to Number Theory)
+AMS 403,Science& Maths Pool-2 (Elements of Statistical Physics)
+AMS 402,Science& Maths Pool-3 (Basic Computational Topology)
+AMS 401,Science& Maths Pool-4 (Electromagnetics & Radiation Systems)
+COM 863,Fundamentals of Radar Sensing
+COM 605,5G-NR Radio Access Network Design with Hands-on
+VLS 804,Analog Power ICs
+VLS 731,VLSI Architecture Design
+VLS 603,Electronic Systems Packaging
+DHS 101B,Economics-II
+DHS 108,The City
+DHS 305,Innovation and Design Thinking
+DHS 308,User Experience
+DHS 314,An Introduction to Accessibility in the Global South
+DHS 315,"Technology, Regulation and Law"
+CSE 212,Design and Analysis of Algorithms
+CSE 102,Data Structures and Algorithms
+CSE 102 P,Data Structures and Algorithms lab
+CSE 121,Computer Architecture
+GEN 611,Research and Publication Ethics
+CSE 402,Basic Computational Topology
+CSE 404,A Computational Introduction to Number Theory
+CSE 104,Linear Algebra
+CSE 123,Computer Architecture
+CSE 704,Topics in Computability and Learning
+CSE 718,Foundations of Distributed Consensus and Blockchains
+CSE 754,Programming Languages
+CSE 819,Robotics
+CSE 852,Approximation Algorithms
+DHS 611,Research and Publication Ethics
+AIM 511,Foundations of AI
+CSE 606,Computer Graphics
+CSE xxx,Cyber Security Fundamentals with Tools & Techniques for Defence
+CSE 824,Cyber Security Fundamentals with Tools & Techniques for Defence
+COM 837,ML for Wireless Communication
+CS 836,Simulation and Modeling of Data using High Performance Computing
+CSE 836,Simulation and Modeling of Data using High Performance Computing
+DAS 872 ,Topological Data Analysis
+AIM 846,Multiobjective Machine Learning
+DHS 306,Software Architecture for Digital Products
+AIM 845,Topics in Quantum Computing
+Turiya,Club
+Research,Meeting
