@@ -1,15 +1,15 @@
 Code,Title
-AI 551,Foundations of AI
-AI 703,Geographic Information Systems
-AI 704,Multi-Agent Systems
-AI 705 - Lecture,Recommendation Systems - Lecture
-AI 705,Recommendation Systems
-AI 724,Statistical Techniques for Spatio-Temporal Data Analysis
-AI 825,Visual Recognition
-AI 828,Bayesian Methods and Probabilistic Graphical Models
-AI 829,Natural Language Processing
-AI 831,Few-shot Learning
-AI 832,Reinforcement Learning
+AIM 551,Foundations of AIM
+AIM 703,Geographic Information Systems
+AIM 704,Multi-Agent Systems
+AIM 705 - Lecture,Recommendation Systems - Lecture
+AIM 705,Recommendation Systems
+AIM 724,Statistical Techniques for Spatio-Temporal Data Analysis
+AIM 825,Visual Recognition
+AIM 828,Bayesian Methods and Probabilistic Graphical Models
+AIM 829,Natural Language Processing
+AIM 831,Few-shot Learning
+AIM 832,Reinforcement Learning
 CS 212,Design and Analysis of Algorithms
 CS 301,Database Systems
 CS 301P,Database Lab
@@ -17,7 +17,7 @@ CS 605,Data Modeling
 CS 704 - Lecture,Topics in Computability and Learning - Lecture
 CS 704,Topics in Computability and Learning
 CS 710,Algorithmic Thinking
-CS 718,Foundations of Distributed Consensus and Blockchains
+CS 718,Foundations of Distributed Consensus and BlockchAIMns
 CS 753,Software Design Practices
 CS 754,Programming Languages
 CS 816,Software Production Engineering
@@ -73,25 +73,25 @@ CS 762,Advanced Data Visualization
 GEN 819,Interdisciplinarity in Robotics
 NC 854,Digital Image Processing
 DT 211,Dynamics of the InformationTechnology Industry
-AIM 511(IMT),Machine Learning (IM.Tech.)
-AIM 512,Mathematics for Machine Learning (M Tech)
+AIMM 511(IMT),Machine Learning (IM.Tech.)
+AIMM 512,Mathematics for Machine Learning (M Tech)
 DAS 703,Geographic Information Systems
-AIM 608,Networks and Semantics
-AIM 842,Quantum computation and machine learning
-AIM 841,Medical Image Analysis with AI
-AIM 843,Spatio-temporal Data Analytics I
+AIMM 608,Networks and Semantics
+AIMM 842,Quantum computation and machine learning
+AIMM 841,Medical Image Analysis with AIM
+AIMM 843,Spatio-temporal Data Analytics I
 DAS 732,Data Visualization
 CSE 513,Software Systems
 CSE 511,Algorithms
 CSE 602,Advanced Algorithms
-AIM 511(MT),Machine Learning (M.Tech.)
-AIM 835,Self-Supervised Learning
-AIM 840,3D Vision
+AIMM 511(MT),Machine Learning (M.Tech.)
+AIMM 835,Self-Supervised Learning
+AIMM 840,3D Vision
 CSE 724,Topics in Artificial Intelligence
 CSE 731,Software Testing
 CSE 752,Software Architecture and Design Practices
 CSE 816,Software Production Engineering
-CSE 853,Algorithms Beyond Certainty
+CSE 853,Algorithms Beyond CertAIMnty
 CSE 857,Secure Computation
 CSE 873,Cryptographic Engineering
 NWC 882,Special Topics - Network-Based Computing for HPC
@@ -138,7 +138,7 @@ GNL 101,English
 CSE 870,Program Analysis for Software Engineering
 AMS 101T,Probability & Statistics Tutorial
 CSE 201T,Discrete Mathematics Tutorial
-AIM 839,ML Production Engineering
+AIMM 839,ML Production Engineering
 EGC 102T,Digital Design
 CSE 303P,Software Engineering Lab
 DHS 301,Data Analysis and Visualization
@@ -155,24 +155,24 @@ GNL 102,Yoga Session (iMtech & B.Tech)
 Turiya Club,Meditation Session
 CP-VALP,Competitive Programming VALP 
 RE ,RE in Computational number theory
-EGC 112,Programming 1B (Python Programming) - BT1-IMT1-DSAI-ECE
+EGC 112,Programming 1B (Python Programming) - BT1-IMT1-DSAIM-ECE
 PGP-DPDM,Accessibility sessions for PGP-DPDM students with disability
-AIM 101,Statistics for DS
-AIM 102,Statistical Machine Learning
+AIMM 101,Statistics for DS
+AIMM 102,Statistical Machine Learning
 DAS 101,Database Systems
 DAS 101P,Database Lab
-AIM 832,Reinforcement Learning
-AIM 844,SpatioTemporal Data Analytics - II
-AIM 825,Visual Recognition
+AIMM 832,Reinforcement Learning
+AIMM 844,SpatioTemporal Data Analytics - II
+AIMM 825,Visual Recognition
 DAS 605,Data Modelling
-AIM 821,Spatial Computing
-AIM 831,Few-shot Learning
+AIMM 821,Spatial Computing
+AIMM 831,Few-shot Learning
 DAS 871,Basic Computational Topology
-AIM 704,Multi-agent Systems
-AIM 720,Topics in AGI
+AIMM 704,Multi-agent Systems
+AIMM 720,Topics in AGI
 DAS 839ï¿½,NoSQL Systems
-AIM 551,Foundations of AI
-AIM 829,Natural Language Processing
+AIMM 551,Foundations of AIM
+AIMM 829,Natural Language Processing
 EGC 122,Datastructures & Algorithms Theory
 EGC 122P,Datastructures & Algorithms Lab
 EGC 121,Computer Architecture
@@ -213,12 +213,12 @@ CSE 404,A Computational Introduction to Number Theory
 CSE 104,Linear Algebra
 CSE 123,Computer Architecture
 CSE 704,Topics in Computability and Learning
-CSE 718,Foundations of Distributed Consensus and Blockchains
+CSE 718,Foundations of Distributed Consensus and BlockchAIMns
 CSE 754,Programming Languages
 CSE 819,Robotics
 CSE 852,Approximation Algorithms
 DHS 611,Research and Publication Ethics
-AIM 511,Foundations of AI
+AIMM 511,Foundations of AIM
 CSE 606,Computer Graphics
 CSE xxx,Cyber Security Fundamentals with Tools & Techniques for Defence
 CSE 824,Cyber Security Fundamentals with Tools & Techniques for Defence
@@ -226,8 +226,8 @@ COM 837,ML for Wireless Communication
 CS 836,Simulation and Modeling of Data using High Performance Computing
 CSE 836,Simulation and Modeling of Data using High Performance Computing
 DAS 872 ,Topological Data Analysis
-AIM 846,Multiobjective Machine Learning
+AIMM 846,Multiobjective Machine Learning
 DHS 306,Software Architecture for Digital Products
-AIM 845,Topics in Quantum Computing
+AIMM 845,Topics in Quantum Computing
 Turiya,Club
 Research,Meeting
