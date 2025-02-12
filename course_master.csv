@@ -1,59 +1,59 @@
-Code,Title,Lab,Dept
-AIM 101 , Statistics for DS,False,CSE
-AIM 102 , Statistical Machine Learning,False,CSE
-AIM 704 , Multi-agent Systems,False,CSE
-AIM 821 , Spatial Computing,False,CSE
-AIM 825 , Visual Recognition,False,CSE
-AIM 829 , Natural Language Processing,False,CSE
-AIM 831 , Few-shot Learning,False,CSE
-AIM 832 , Reinforcement Learning,False,CSE
-AIM 843 , Spatio-temporal Data Analytics I,False,CSE
-AIM 845 , Topics in Quantum Computing,False,CSE
-AIM 846 , Multiobjective Machine Learning,False,CSE
-AMS 401 , Science& Maths Pool-4 (Electromagnetics & Radiation Systems),False,ECE
-AMS 402 , Science& Maths Pool-3 (Basic Computational Topology),False,ECE
-AMS 403 , Science& Maths Pool-2 (Elements of Statistical Physics),False,ECE
-AMS 404 , Science& Maths Pool-1 (A computational introduction to Number Theory),False,ECE
-COM 605 , 5G-NR Radio Access Network Design with Hands-on,False,ECE
-COM 837 , ML for Wireless Communication,False,ECE
-COM 863 , Fundamentals of Radar Sensing,False,ECE
-CSE 102 , Data Structures and Algorithms,False,CSE
-CSE 102 P -A, Data Structures and Algorithms lab,True,CSE
-CSE 102 P -B, Data Structures and Algorithms lab,True,CSE
-CSE 104 , Linear Algebra,False,CSE
-CSE 212 , Design and Analysis of Algorithms,False,CSE
-CSE 606 , Computer Graphics,False,CSE
-CSE 704 , Topics in Computability and Learning,False,CSE
-CSE 718 , Foundations of Distributed Consensus and Blockchains,False,CSE
-CSE 754 , Programming Languages,False,CSE
-CSE 816 , Software Production Engineering,False,CSE
-CSE 819 , Robotics,False,CSE
-CSE 824 , Cyber Security Fundamentals with Tools & Techniques for Defence,False,CSE
-CSE 836 , Simulation and Modeling of Data using High Performance Computing,False,CSE
-CSE 852 , Approximation Algorithms,False,CSE
-DAS 101 , Database Systems,False,CSE
-DAS 101P -B, Database Lab,True,CSE
-DAS 101P -A, Database Lab,True,CSE
-DAS 605 , Data Modelling,False,CSE
-DAS 839 , NoSQL Systems,False,CSE
-DHS 101B , Economics-II,False,ECE
-DHS 108 , The City,False,ECE
-DHS 110 , Social Pathways to IT,False,ECE
-DHS 201 , Technical Communication,False,ECE
-DHS 305 , Innovation and Design Thinking,False,ECE
-DHS 306 , Software Architecture for Digital Products,False,ECE
-DHS 308 , User Experience,False,ECE
-DHS 314 , An Introduction to Accessibility in the Global South,False,ECE
-DHS 315 ," Technology, Regulation and Law",False,ECE
-DHS 611 , Research and Publication Ethics,False,ECE
-ECE 212 , Analog Circuits,False,ECE
-ECE 212P -A, Analog Circuits Lab,True,ECE
-ECE 303 , Principles of Communication Systems,False,ECE
-ECE 303P -A, Principles of Communication Systems Lab,True,ECE
-ECE 304 , Signal Processing,False,ECE
-EGC 121 , Computer Architecture,False,ECE
-EGC 123 , Computer Networks,False,ECE
-EGC 301 , Operating Systems,False,ECE
-VLS 603 , Electronic Systems Packaging,False,ECE
-VLS 731 , VLSI Architecture Design,False,ECE
-VLS 804 , Analog Power ICs,False,ECE
+Code,Title,Lab,Dept,Exam Duration,Preferred Timings
+AIM 101 , Statistics for DS,False,CSE,180.0,"[('14:45', '17:45', 'Wed'), ('08:45', '11:45', 'Fri'), ('08:45', '11:45', 'Tue')]"
+AIM 102 , Statistical Machine Learning,False,CSE,180.0,"[('14:45', '17:45', 'Tue'), ('08:45', '11:45', 'Mon'), ('09:45', '12:45', 'Fri')]"
+AIM 704 , Multi-agent Systems,False,CSE,180.0,"[('14:30', '17:30', 'Thu'), ('08:30', '11:30', 'Thu'), ('08:45', '11:45', 'Mon')]"
+AIM 821 , Spatial Computing,False,CSE,180.0,"[('08:15', '11:15', 'Fri'), ('14:45', '17:45', 'Fri'), ('14:15', '17:15', 'Wed')]"
+AIM 825 , Visual Recognition,False,CSE,90.0,"[('16:30', '18:00', 'Thu'), ('14:30', '16:00', 'Thu'), ('08:30', '10:00', 'Mon')]"
+AIM 829 , Natural Language Processing,False,CSE,180.0,"[('14:15', '17:15', 'Sat'), ('14:15', '17:15', 'Mon'), ('09:00', '12:00', 'Thu')]"
+AIM 831 , Few-shot Learning,False,CSE,180.0,"[('14:45', '17:45', 'Thu'), ('08:00', '11:00', 'Thu'), ('15:00', '18:00', 'Thu')]"
+AIM 832 , Reinforcement Learning,False,CSE,180.0,"[('10:00', '13:00', 'Sat'), ('08:30', '11:30', 'Tue'), ('09:45', '12:45', 'Fri')]"
+AIM 843 , Spatio-temporal Data Analytics I,False,CSE,180.0,"[('15:00', '18:00', 'Wed'), ('08:00', '11:00', 'Sat'), ('14:15', '17:15', 'Mon')]"
+AIM 845 , Topics in Quantum Computing,False,CSE,120.0,"[('14:45', '16:45', 'Fri'), ('08:45', '10:45', 'Sat'), ('15:15', '17:15', 'Wed')]"
+AIM 846 , Multiobjective Machine Learning,False,CSE,180.0,"[('14:15', '17:15', 'Sat'), ('09:00', '12:00', 'Tue'), ('08:30', '11:30', 'Thu')]"
+AMS 401 , Science& Maths Pool-4 (Electromagnetics & Radiation Systems),False,ECE,120.0,"[('15:15', '17:15', 'Thu'), ('11:00', '13:00', 'Fri'), ('08:30', '10:30', 'Wed')]"
+AMS 402 , Science& Maths Pool-3 (Basic Computational Topology),False,ECE,180.0,"[('14:00', '17:00', 'Thu'), ('10:00', '13:00', 'Mon'), ('08:30', '11:30', 'Thu')]"
+AMS 403 , Science& Maths Pool-2 (Elements of Statistical Physics),False,ECE,120.0,"[('11:00', '13:00', 'Fri'), ('08:30', '10:30', 'Wed'), ('10:45', '12:45', 'Fri')]"
+AMS 404 , Science& Maths Pool-1 (A computational introduction to Number Theory),False,ECE,180.0,"[('10:00', '13:00', 'Mon'), ('14:00', '17:00', 'Fri'), ('15:00', '18:00', 'Sat')]"
+COM 605 , 5G-NR Radio Access Network Design with Hands-on,False,ECE,180.0,"[('08:15', '11:15', 'Thu'), ('14:15', '17:15', 'Thu'), ('09:15', '12:15', 'Wed')]"
+COM 837 , ML for Wireless Communication,False,ECE,180.0,"[('08:45', '11:45', 'Thu'), ('08:15', '11:15', 'Thu'), ('08:15', '11:15', 'Tue')]"
+COM 863 , Fundamentals of Radar Sensing,False,ECE,180.0,"[('15:00', '18:00', 'Wed'), ('08:45', '11:45', 'Wed'), ('09:00', '12:00', 'Wed')]"
+CSE 102 , Data Structures and Algorithms,False,CSE,180.0,"[('14:15', '17:15', 'Thu'), ('15:00', '18:00', 'Mon'), ('10:00', '13:00', 'Tue')]"
+CSE 102 P -A, Data Structures and Algorithms lab,True,CSE,180.0,"[('08:45', '11:45', 'Sat'), ('14:00', '17:00', 'Thu'), ('14:30', '17:30', 'Mon')]"
+CSE 102 P -B, Data Structures and Algorithms lab,True,CSE,120.0,"[('10:30', '12:30', 'Tue'), ('09:45', '11:45', 'Wed'), ('14:45', '16:45', 'Wed')]"
+CSE 104 , Linear Algebra,False,CSE,180.0,"[('09:15', '12:15', 'Fri'), ('14:30', '17:30', 'Tue'), ('10:00', '13:00', 'Sat')]"
+CSE 212 , Design and Analysis of Algorithms,False,CSE,180.0,"[('15:00', '18:00', 'Thu'), ('14:00', '17:00', 'Tue'), ('09:00', '12:00', 'Mon')]"
+CSE 606 , Computer Graphics,False,CSE,180.0,"[('08:00', '11:00', 'Sat'), ('14:30', '17:30', 'Fri'), ('14:45', '17:45', 'Fri')]"
+CSE 704 , Topics in Computability and Learning,False,CSE,180.0,"[('14:45', '17:45', 'Wed'), ('09:45', '12:45', 'Wed'), ('08:30', '11:30', 'Tue')]"
+CSE 718 , Foundations of Distributed Consensus and Blockchains,False,CSE,180.0,"[('14:00', '17:00', 'Thu'), ('08:00', '11:00', 'Fri'), ('08:00', '11:00', 'Thu')]"
+CSE 754 , Programming Languages,False,CSE,90.0,"[('15:15', '16:45', 'Fri'), ('09:30', '11:00', 'Tue'), ('15:15', '16:45', 'Tue')]"
+CSE 816 , Software Production Engineering,False,CSE,120.0,"[('15:00', '17:00', 'Fri'), ('08:45', '10:45', 'Mon'), ('11:00', '13:00', 'Thu')]"
+CSE 819 , Robotics,False,CSE,180.0,"[('14:45', '17:45', 'Sat'), ('09:30', '12:30', 'Wed'), ('14:00', '17:00', 'Tue')]"
+CSE 824 , Cyber Security Fundamentals with Tools & Techniques for Defence,False,CSE,180.0,"[('09:30', '12:30', 'Mon'), ('09:30', '12:30', 'Thu'), ('14:45', '17:45', 'Wed')]"
+CSE 836 , Simulation and Modeling of Data using High Performance Computing,False,CSE,90.0,"[('08:00', '09:30', 'Fri'), ('16:00', '17:30', 'Fri'), ('14:45', '16:15', 'Tue')]"
+CSE 852 , Approximation Algorithms,False,CSE,90.0,"[('14:15', '15:45', 'Mon'), ('16:15', '17:45', 'Wed'), ('16:00', '17:30', 'Fri')]"
+DAS 101 , Database Systems,False,CSE,180.0,"[('09:30', '12:30', 'Sat'), ('08:00', '11:00', 'Thu'), ('08:15', '11:15', 'Mon')]"
+DAS 101P -B, Database Lab,True,CSE,90.0,"[('15:15', '16:45', 'Wed'), ('08:30', '10:00', 'Wed'), ('08:00', '09:30', 'Tue')]"
+DAS 101P -A, Database Lab,True,CSE,180.0,"[('14:30', '17:30', 'Sat'), ('09:30', '12:30', 'Sat'), ('10:00', '13:00', 'Thu')]"
+DAS 605 , Data Modelling,False,CSE,180.0,"[('08:30', '11:30', 'Tue'), ('08:45', '11:45', 'Sat'), ('09:30', '12:30', 'Mon')]"
+DAS 839 , NoSQL Systems,False,CSE,90.0,"[('09:30', '11:00', 'Fri'), ('09:45', '11:15', 'Mon'), ('10:15', '11:45', 'Tue')]"
+DHS 101B , Economics-II,False,ECE,120.0,"[('16:00', '18:00', 'Tue'), ('08:00', '10:00', 'Fri'), ('10:00', '12:00', 'Thu')]"
+DHS 108 , The City,False,ECE,180.0,"[('09:15', '12:15', 'Thu'), ('09:15', '12:15', 'Mon'), ('09:45', '12:45', 'Thu')]"
+DHS 110 , Social Pathways to IT,False,ECE,180.0,"[('09:00', '12:00', 'Mon'), ('14:30', '17:30', 'Fri'), ('14:00', '17:00', 'Tue')]"
+DHS 201 , Technical Communication,False,ECE,180.0,"[('09:15', '12:15', 'Thu'), ('08:45', '11:45', 'Tue'), ('09:00', '12:00', 'Wed')]"
+DHS 305 , Innovation and Design Thinking,False,ECE,120.0,"[('10:00', '12:00', 'Fri'), ('15:15', '17:15', 'Sat'), ('11:00', '13:00', 'Mon')]"
+DHS 306 , Software Architecture for Digital Products,False,ECE,120.0,"[('10:00', '12:00', 'Wed'), ('11:00', '13:00', 'Thu'), ('09:30', '11:30', 'Thu')]"
+DHS 308 , User Experience,False,ECE,180.0,"[('14:15', '17:15', 'Thu'), ('09:30', '12:30', 'Fri'), ('09:00', '12:00', 'Wed')]"
+DHS 314 , An Introduction to Accessibility in the Global South,False,ECE,180.0,"[('14:45', '17:45', 'Fri'), ('14:00', '17:00', 'Mon'), ('09:15', '12:15', 'Fri')]"
+DHS 315 ," Technology, Regulation and Law",False,ECE,180.0,"[('08:45', '11:45', 'Mon'), ('08:15', '11:15', 'Sat'), ('08:00', '11:00', 'Mon')]"
+DHS 611 , Research and Publication Ethics,False,ECE,180.0,"[('08:45', '11:45', 'Wed'), ('09:45', '12:45', 'Tue'), ('08:30', '11:30', 'Fri')]"
+ECE 212 , Analog Circuits,False,ECE,180.0,"[('14:00', '17:00', 'Wed'), ('15:00', '18:00', 'Wed'), ('09:00', '12:00', 'Wed')]"
+ECE 212P -A, Analog Circuits Lab,True,ECE,180.0,"[('14:30', '17:30', 'Tue'), ('08:30', '11:30', 'Mon'), ('08:45', '11:45', 'Fri')]"
+ECE 303 , Principles of Communication Systems,False,ECE,180.0,"[('15:00', '18:00', 'Mon'), ('09:15', '12:15', 'Tue'), ('08:45', '11:45', 'Tue')]"
+ECE 303P -A, Principles of Communication Systems Lab,True,ECE,90.0,"[('09:00', '10:30', 'Thu'), ('10:15', '11:45', 'Thu'), ('09:15', '10:45', 'Wed')]"
+ECE 304 , Signal Processing,False,ECE,180.0,"[('15:00', '18:00', 'Mon'), ('14:00', '17:00', 'Tue'), ('09:30', '12:30', 'Sat')]"
+EGC 121 , Computer Architecture,False,ECE,120.0,"[('15:15', '17:15', 'Mon'), ('09:15', '11:15', 'Mon'), ('15:00', '17:00', 'Mon')]"
+EGC 123 , Computer Networks,False,ECE,120.0,"[('08:00', '10:00', 'Mon'), ('08:00', '10:00', 'Thu'), ('15:45', '17:45', 'Thu')]"
+EGC 301 , Operating Systems,False,ECE,180.0,"[('14:30', '17:30', 'Fri'), ('08:45', '11:45', 'Mon'), ('08:15', '11:15', 'Tue')]"
+VLS 603 , Electronic Systems Packaging,False,ECE,120.0,"[('09:00', '11:00', 'Wed'), ('11:00', '13:00', 'Fri'), ('10:00', '12:00', 'Wed')]"
+VLS 731 , VLSI Architecture Design,False,ECE,180.0,"[('08:00', '11:00', 'Fri'), ('14:45', '17:45', 'Mon'), ('09:30', '12:30', 'Thu')]"
+VLS 804 , Analog Power ICs,False,ECE,180.0,"[('14:45', '17:45', 'Fri'), ('08:00', '11:00', 'Tue'), ('14:00', '17:00', 'Mon')]"
