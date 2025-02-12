@@ -1,32 +1,32 @@
-RoomNumber,Capacity
-R102,60
-R103,210
-R104,60
-R105,70
-R106 (LAB),70
-R107/R108 (LAB),115
-R110,70
-A204,120
-R305,20
-R306,20
-R203,230
-A303,90
-R101,60
-A106,200
-A307,110
-A308,40
-A310,60
-A304/A305,90
-A317 HidesLab,65
-A226,12
-R308,15
-A107,15
-R401(Amanthran),160
-R109,35
-Ramanujan Basement 01 (A- Block),80
-Ramanujan Basement 02 (B- Block),80
-Ramanujan Basement 03 (C- Block),80
-Ramanujan Basement 04 (D- Block),80
-Ramanujan Basement 05 (E- Block),80
-A314,12
-R-310,6
+RoomNumber,Capacity,Lab,DeptLab
+R102,60,False,False
+R103,210,False,False
+R104,60,False,False
+R105,70,False,False
+R106 (LAB),70,True,True
+R107/R108 (LAB),115,True,True
+R110,70,False,False
+A204,120,False,False
+R305,20,False,False
+R306,20,False,False
+R203,230,False,False
+A303,90,False,False
+R101,60,False,False
+A106,200,False,False
+A307,110,False,False
+A308,40,False,False
+A310,60,False,False
+A304/A305,90,False,False
+A317 HidesLab,65,True,False
+A226,12,False,False
+R308,15,False,False
+A107,15,False,False
+R401(Amanthran),160,False,False
+R109,35,False,False
+Ramanujan Basement 01 (A- Block),80,False,False
+Ramanujan Basement 02 (B- Block),80,False,False
+Ramanujan Basement 03 (C- Block),80,False,False
+Ramanujan Basement 04 (D- Block),80,False,False
+Ramanujan Basement 05 (E- Block),80,False,False
+A314,12,False,False
+R-310,6,False,False
