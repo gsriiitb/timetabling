@@ -18,7 +18,8 @@ COM 605 , 5G-NR Radio Access Network Design with Hands-on,False,ECE
 COM 837 , ML for Wireless Communication,False,ECE
 COM 863 , Fundamentals of Radar Sensing,False,ECE
 CSE 102 , Data Structures and Algorithms,False,CSE
-CSE 102 P , Data Structures and Algorithms lab,True,CSE
+CSE 102 P -A, Data Structures and Algorithms lab,True,CSE
+CSE 102 P -B, Data Structures and Algorithms lab,True,CSE
 CSE 104 , Linear Algebra,False,CSE
 CSE 212 , Design and Analysis of Algorithms,False,CSE
 CSE 606 , Computer Graphics,False,CSE
@@ -31,7 +32,8 @@ CSE 824 , Cyber Security Fundamentals with Tools & Techniques for Defence,False,
 CSE 836 , Simulation and Modeling of Data using High Performance Computing,False,CSE
 CSE 852 , Approximation Algorithms,False,CSE
 DAS 101 , Database Systems,False,CSE
-DAS 101P , Database Lab,True,CSE
+DAS 101P -B, Database Lab,True,CSE
+DAS 101P -A, Database Lab,True,CSE
 DAS 605 , Data Modelling,False,CSE
 DAS 839 , NoSQL Systems,False,CSE
 DHS 101B , Economics-II,False,ECE
@@ -45,14 +47,13 @@ DHS 314 , An Introduction to Accessibility in the Global South,False,ECE
 DHS 315 ," Technology, Regulation and Law",False,ECE
 DHS 611 , Research and Publication Ethics,False,ECE
 ECE 212 , Analog Circuits,False,ECE
-ECE 212P , Analog Circuits Lab,True,ECE
+ECE 212P -A, Analog Circuits Lab,True,ECE
 ECE 303 , Principles of Communication Systems,False,ECE
-ECE 303P , Principles of Communication Systems Lab,True,ECE
+ECE 303P -A, Principles of Communication Systems Lab,True,ECE
 ECE 304 , Signal Processing,False,ECE
 EGC 121 , Computer Architecture,False,ECE
 EGC 123 , Computer Networks,False,ECE
 EGC 301 , Operating Systems,False,ECE
-EGC 301P , Operating Systems Lab,True,ECE
 VLS 603 , Electronic Systems Packaging,False,ECE
 VLS 731 , VLSI Architecture Design,False,ECE
 VLS 804 , Analog Power ICs,False,ECE
