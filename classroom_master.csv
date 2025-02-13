@@ -1,6 +1,32 @@
-RoomNum,Capacity,Category (Lab/Computer/..),HasProjector,HasWacom
-R001,40,Lecture,False,True
-R002,30,Lecture,True,False
-R003,70,Computer,False,False
-R004,30,Lab,False,True
-R005,30,Computer,True,True
+RoomNumber,Capacity,Lab,DeptLab
+R102,60,False,False
+R103,210,False,False
+R104,60,False,False
+R105,70,False,False
+R106 (LAB),70,True,True
+R107/R108 (LAB),115,True,True
+R110,70,False,False
+A204,120,False,False
+R305,20,False,False
+R306,20,False,False
+R203,230,False,False
+A303,90,False,False
+R101,60,False,False
+A106,200,False,False
+A307,110,False,False
+A308,40,False,False
+A310,60,False,False
+A304/A305,90,False,False
+A317 HidesLab,65,True,False
+A226,12,False,False
+R308,15,False,False
+A107,15,False,False
+R401(Amanthran),160,False,False
+R109,35,False,False
+Ramanujan Basement 01 (A- Block),80,False,False
+Ramanujan Basement 02 (B- Block),80,False,False
+Ramanujan Basement 03 (C- Block),80,False,False
+Ramanujan Basement 04 (D- Block),80,False,False
+Ramanujan Basement 05 (E- Block),80,False,False
+A314,12,False,False
+R-310,6,False,False
