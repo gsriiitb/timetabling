@@ -1,60 +1,60 @@
 Course,Strength,Time,Rooms,Day
-VLS 804,31,09:15 - 12:15,Ramanujan Basement 05 (E- Block) (Capacity: 31.0),Mon
-CSE 836,14,09:45 - 12:45,R104 (Capacity: 14.0),Mon
-CSE 718,41,09:45 - 12:45,R103 (Capacity: 41.0),Mon
-DAS 101P-A,96,09:45 - 12:15,R107/R108 (LAB) (Capacity: 96.0),Mon
-AIM 843,35,10:45 - 11:45,A310 (Capacity: 35.0),Mon
-EGC 123-B,95,10:45 - 12:45,A106 (Capacity: 95.0),Mon
-DHS 305,36,14:15 - 16:15,A303 (Capacity: 36.0),Mon
-DAS 101P-B,95,14:15 - 16:45,R107/R108 (LAB) (Capacity: 95.0),Mon
+DHS 101B-B,123,09:45 - 12:45,"R106 (LAB) (Capacity: 8.0), R107/R108 (LAB) (Capacity: 115.0)",Mon
+DHS 315,78,10:45 - 12:45,R203 (Capacity: 78.0),Mon
+CSE 816,146,10:45 - 12:45,R103 (Capacity: 146.0),Mon
+DAS 101-A,96,14:00 - 17:00,R203 (Capacity: 96.0),Mon
+AIM 845,7,14:15 - 17:15,R102 (Capacity: 7.0),Mon
+DAS 101-B,95,14:15 - 17:15,A307 (Capacity: 95.0),Mon
+DHS 201-A,158,14:45 - 17:45,R103 (Capacity: 158.0),Mon
 ECE 212P,61,15:00 - 18:00,A317 HidesLab (Capacity: 61.0),Mon
-CSE 102 P-A,158,15:15 - 17:45,A106 (Capacity: 158.0),Mon
-AMS 401,4,09:15 - 12:15,Ramanujan Basement 01 (A- Block) (Capacity: 4.0),Tue
-DHS 611,12,09:15 - 12:15,A303 (Capacity: 12.0),Tue
-DHS 201-B,123,09:15 - 12:15,R103 (Capacity: 123.0),Tue
-DHS 315,78,09:30 - 11:30,A304/A305 (Capacity: 78.0),Tue
-AMS 403,79,10:15 - 12:45,A204 (Capacity: 79.0),Tue
-CSE 816,146,10:30 - 12:30,R401(Amanthran) (Capacity: 146.0),Tue
-AMS 404,75,10:45 - 12:45,Ramanujan Basement 05 (E- Block) (Capacity: 75.0),Tue
-COM 605,12,14:00 - 16:00,R104 (Capacity: 12.0),Tue
-AIM 821,21,14:00 - 17:00,A307 (Capacity: 21.0),Tue
-AMS 402,39,14:00 - 17:00,A106 (Capacity: 39.0),Tue
-AIM 845,7,14:15 - 17:15,R105 (Capacity: 7.0),Tue
-CSE 102-A,159,15:00 - 18:00,R103 (Capacity: 159.0),Tue
-AIM 101,59,15:15 - 17:15,R101 (Capacity: 59.0),Tue
-CSE 104-A,158,09:15 - 11:15,A106 (Capacity: 158.0),Wed
-EGC 301,193,09:15 - 12:15,R203 (Capacity: 193.0),Wed
-CSE 102-B,123,09:30 - 11:30,R401(Amanthran) (Capacity: 123.0),Wed
-AIM 831,175,09:45 - 12:45,"R106 (LAB) (Capacity: 70.0), R107/R108 (LAB) (Capacity: 105.0)",Wed
-DAS 839,72,14:00 - 16:00,Ramanujan Basement 05 (E- Block) (Capacity: 72.0),Wed
-CSE 104-B,123,14:00 - 17:00,R203 (Capacity: 123.0),Wed
-DHS 314,25,15:45 - 17:45,R102 (Capacity: 25.0),Wed
-CSE 754,25,09:45 - 12:45,Ramanujan Basement 02 (B- Block) (Capacity: 25.0),Thu
-DHS 308,40,09:45 - 12:45,Ramanujan Basement 05 (E- Block) (Capacity: 40.0),Thu
+CSE 102 P-A,158,15:00 - 17:30,R401(Amanthran) (Capacity: 158.0),Mon
+AMS 403,79,09:30 - 12:00,Ramanujan Basement 04 (D- Block) (Capacity: 79.0),Tue
+AMS 404,75,10:30 - 12:30,Ramanujan Basement 03 (C- Block) (Capacity: 75.0),Tue
+EGC 123-B,95,10:45 - 12:45,R103 (Capacity: 95.0),Tue
+CSE 606,14,11:30 - 13:00,A304/A305 (Capacity: 14.0),Tue
+AMS 401,4,14:15 - 17:15,R104 (Capacity: 4.0),Tue
+AIM 102,59,14:15 - 17:15,R102 (Capacity: 59.0),Tue
+DHS 611,12,14:45 - 17:45,R101 (Capacity: 12.0),Tue
+CSE 704,115,14:45 - 17:15,R401(Amanthran) (Capacity: 115.0),Tue
+VLS 603,33,15:00 - 18:00,A307 (Capacity: 33.0),Tue
+AMS 402,39,15:00 - 18:00,R110 (Capacity: 39.0),Tue
+DHS 308,40,15:00 - 18:00,A304/A305 (Capacity: 40.0),Tue
+DHS 101B-A,158,15:00 - 18:00,"R106 (LAB) (Capacity: 43.0), R107/R108 (LAB) (Capacity: 115.0)",Tue
+CSE 104-A,158,09:15 - 11:15,R203 (Capacity: 158.0),Wed
+DHS 314,25,10:45 - 12:45,R103 (Capacity: 25.0),Wed
+AIM 101,59,10:45 - 12:45,R101 (Capacity: 59.0),Wed
+DAS 839,72,10:45 - 12:45,Ramanujan Basement 01 (A- Block) (Capacity: 72.0),Wed
+ECE 304,61,11:30 - 13:00,Ramanujan Basement 03 (C- Block) (Capacity: 61.0),Wed
+EGC 301,193,14:15 - 17:15,A106 (Capacity: 193.0),Wed
+CSE 102 P-B,123,15:00 - 17:30,R203 (Capacity: 123.0),Wed
+AIM 831,175,15:00 - 18:00,"R106 (LAB) (Capacity: 70.0), R107/R108 (LAB) (Capacity: 105.0)",Wed
+VLS 804,31,09:45 - 12:45,Ramanujan Basement 04 (D- Block) (Capacity: 31.0),Thu
 ECE 303P,61,09:45 - 12:45,A317 HidesLab (Capacity: 61.0),Thu
-DHS 101B-A,158,09:45 - 12:45,"R106 (LAB) (Capacity: 44.0), R107/R108 (LAB) (Capacity: 114.0)",Thu
-CSE 102 P-B,123,10:30 - 13:00,R401(Amanthran) (Capacity: 123.0),Thu
+CSE 104-B,123,09:45 - 12:45,R103 (Capacity: 123.0),Thu
+DAS 605,53,10:45 - 12:45,R102 (Capacity: 53.0),Thu
 CSE 212,134,10:45 - 12:45,R203 (Capacity: 134.0),Thu
-ECE 304,61,14:00 - 15:30,A204 (Capacity: 61.0),Thu
-AIM 832,93,14:15 - 17:15,R103 (Capacity: 93.0),Thu
+DHS 306,34,14:00 - 16:00,R203 (Capacity: 34.0),Thu
+AIM 832,93,14:00 - 17:00,R401(Amanthran) (Capacity: 93.0),Thu
+ECE 212,61,14:15 - 17:15,R103 (Capacity: 61.0),Thu
+AIM 821,21,15:00 - 18:00,R105 (Capacity: 21.0),Thu
+EGC 121-B,95,15:00 - 18:00,A106 (Capacity: 95.0),Thu
 EGC 123-A,127,15:00 - 17:00,R203 (Capacity: 127.0),Thu
-DHS 101B-B,123,09:15 - 12:15,"R106 (LAB) (Capacity: 70.0), R107/R108 (LAB) (Capacity: 53.0)",Fri
-DHS 201-A,158,09:15 - 12:15,A106 (Capacity: 158.0),Fri
-CSE 824,155,09:30 - 12:30,R103 (Capacity: 155.0),Fri
-ECE 212,61,14:00 - 17:00,R103 (Capacity: 61.0),Fri
-DAS 101-B,95,14:00 - 17:00,A106 (Capacity: 95.0),Fri
-DHS 108,7,14:15 - 17:15,Ramanujan Basement 03 (C- Block) (Capacity: 7.0),Fri
-AIM 846,26,14:15 - 17:15,R104 (Capacity: 26.0),Fri
-DAS 101-A,96,14:45 - 17:45,R203 (Capacity: 96.0),Fri
-AIM 704,20,09:30 - 12:30,R102 (Capacity: 20.0),Sat
-DAS 605,53,09:30 - 11:30,A304/A305 (Capacity: 53.0),Sat
-ECE 303,61,09:45 - 12:45,R105 (Capacity: 61.0),Sat
-CSE 606,14,11:30 - 13:00,R101 (Capacity: 14.0),Sat
-DHS 306,34,14:00 - 16:00,Ramanujan Basement 03 (C- Block) (Capacity: 34.0),Sat
-AIM 102,59,14:00 - 17:00,A303 (Capacity: 59.0),Sat
-EGC 121-B,95,14:00 - 17:00,A204 (Capacity: 95.0),Sat
+CSE 754,25,09:15 - 12:15,R105 (Capacity: 25.0),Fri
+AIM 846,26,09:45 - 12:45,Ramanujan Basement 05 (E- Block) (Capacity: 26.0),Fri
+ECE 303,61,09:45 - 12:45,Ramanujan Basement 02 (B- Block) (Capacity: 61.0),Fri
+DAS 101P-B,95,10:15 - 12:45,R107/R108 (LAB) (Capacity: 95.0),Fri
+DHS 305,36,10:45 - 12:45,R104 (Capacity: 36.0),Fri
+AIM 704,20,14:00 - 17:00,R110 (Capacity: 20.0),Fri
+AIM 843,35,14:00 - 15:00,R103 (Capacity: 35.0),Fri
+DAS 101P-A,96,14:00 - 16:30,R107/R108 (LAB) (Capacity: 96.0),Fri
+CSE 836,14,14:15 - 17:15,R104 (Capacity: 14.0),Fri
+CSE 718,41,15:00 - 18:00,R110 (Capacity: 41.0),Fri
+DHS 201-A,158,15:00 - 18:00,R401(Amanthran) (Capacity: 158.0),Fri
+CSE 102-B,123,15:45 - 17:45,R203 (Capacity: 123.0),Fri
+CSE 102-A,159,09:30 - 12:30,A106 (Capacity: 159.0),Sat
+CSE 824,155,09:45 - 12:45,R203 (Capacity: 155.0),Sat
+DHS 108,7,14:00 - 17:00,R105 (Capacity: 7.0),Sat
+DHS 201-B,123,14:00 - 17:00,R103 (Capacity: 123.0),Sat
+EGC 121-A,127,14:00 - 17:00,R203 (Capacity: 127.0),Sat
 DHS 110,193,14:00 - 16:00,A106 (Capacity: 193.0),Sat
-EGC 121-A,127,14:15 - 17:15,R203 (Capacity: 127.0),Sat
-DHS 201-A,158,14:15 - 17:15,R401(Amanthran) (Capacity: 158.0),Sat
-VLS 603,33,14:45 - 17:45,R102 (Capacity: 33.0),Sat
-CSE 704,115,15:00 - 17:30,R103 (Capacity: 115.0),Sat
+COM 605,12,15:00 - 17:00,R102 (Capacity: 12.0),Sat
