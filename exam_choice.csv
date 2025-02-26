@@ -34,10 +34,10 @@ DAS 101,Different
 DAS 101P,Different
 DAS 605,Same
 DAS 839,Same
-DHS 101B,Different
+DHS 101B,NoExam
 DHS 108,Same
-DHS 110,Same
-DHS 201,Different
+DHS 110,NoExam
+DHS 201,NoExam
 DHS 305,Same
 DHS 306,Same
 DHS 308,Same
